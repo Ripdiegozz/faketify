@@ -1,2 +1,2 @@
 # Faketify
-# faketify
+Discord Music Bot
